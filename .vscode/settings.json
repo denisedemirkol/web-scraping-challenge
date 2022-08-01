@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Missions_to_Mars"
+    ]
+}
